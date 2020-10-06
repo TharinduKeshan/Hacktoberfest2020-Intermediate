@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1586075603 source:c:\users\user\desktop\c++\made by codeblocks\bad wrods finder\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+
+1589819701 source:c:\users\user\desktop\c++\made by codeblocks\my own advanced projects\registration system\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+
+1592137625 source:c:\users\user\desktop\c++-c#\made by codeblocks\my own advanced projects\registration system\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+
