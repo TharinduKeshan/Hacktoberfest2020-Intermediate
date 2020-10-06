@@ -16,13 +16,7 @@ bool isdot(std::string const& address)// testing for the dot
 }
 int main()
 {
-    string first; //Input String Types
-    string last;
-    string adress;
-    string a;
-    string s;
-    string p;
-    string e;
+    string first, last, adredd, a, s, p, e; //Input String Types
 
     cout<<"Welcome To Extreme Gamers Registration System."<<endl<<endl;
       cout<<"Please Notice That All Questions Have To Be Answered."<<endl<<endl;
@@ -63,7 +57,7 @@ cout<<""<<endl;
 
 
        cout<<"Thank You For Using Our Service"<<endl<<endl;
-        cout<<"You Are Successfully Registered To Coding For Fun "<<endl<<endl;
+        cout<<"You Are Successfully Registered To Coding For Fun 2020 Competition. You Will Get Your Confirmation Email Soon"<<endl<<endl;
     cout<<"See You Soon "<<first<<"!!"<<endl; //Last Greetings
 }
 
