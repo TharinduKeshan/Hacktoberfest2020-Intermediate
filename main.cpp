@@ -38,13 +38,13 @@ int main()
       cout<<""<<endl;
 
   cout << "5.Type your email address\n";
-  cin >> adress;
+  cin >> adredd;
   cout<<""<<endl;
-if (!isemail(adress)) //Print Missing Symbol @
+if (!isemail(adredd)) //Print Missing Symbol @
   {
       cout << "Missing @ symbol\n";
   }
-else if (!isdot(adress))
+else if (!isdot(adredd))
 {
     cout << "Missing . symbol after @\n"; //Print Missing . Symbol After @
 }
