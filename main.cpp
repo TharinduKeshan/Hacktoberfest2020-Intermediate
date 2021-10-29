@@ -16,10 +16,10 @@ bool isdot(std::string const& address)// testing for the dot
 }
 int main()
 {
-    string first, last, adredd, a, s, p, e; //Input String Types
+    string first, last, adress, a, s, p, e; //Input String Types
 
-    cout<<"Welcome To Extreme Gamers Registration System."<<endl<<endl;
-      cout<<"Please Notice That All Questions Have To Be Answered."<<endl<<endl;
+    cout<<"Welcome To Extreme Gamers Registration System."<<endl;
+      cout<<"Please Notice That All Questions Have To Be Answered."<<endl;
         cout<<"1.Your First Name?"<<endl; //Asking Questions 1-5
     cin>>first;
       cout<<""<<endl;
